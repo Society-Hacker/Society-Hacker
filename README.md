@@ -1,5 +1,5 @@
-- 👋 Hi, We are @Society-Hacker
-- 👀 We're interested in learning how to develop digital products 
+- 👋 Hi, We are @Society-Hacker at Digital Star Network 
+- 👀 We're interested in learning how to vibe code new products 
 - 🌱 We're currently learning ...how this all works
 - 💞️ We're looking to collaborate on ...building web3 projects that feel like web2
 - 📫 How to reach me https://www.linkedin.com/in/stephanmorris 
